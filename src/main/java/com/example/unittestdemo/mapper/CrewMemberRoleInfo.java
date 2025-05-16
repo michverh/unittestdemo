@@ -6,5 +6,6 @@ import lombok.Builder;
 public record CrewMemberRoleInfo(
     String staffNumber,
     String rank,
+    String crewType,
     Long seniority
 ) {}
