@@ -1,7 +1,5 @@
 package com.example.unittestdemo.order;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class OrderBookSpecificationTest {
 
     private OrderBookSpecification orderBookSpecification;

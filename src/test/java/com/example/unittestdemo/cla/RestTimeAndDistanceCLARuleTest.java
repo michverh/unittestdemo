@@ -1,8 +1,5 @@
 package com.example.unittestdemo.cla;
 
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
-
 class RestTimeAndDistanceCLARuleTest {
     
     private RestTimeAndDistanceCLARule restTimeAndDistanceCLARule;
